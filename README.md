@@ -1,11 +1,12 @@
-# Hello , I'm Mamta  
+Hi, I'm Mamta Patil 
+Data Science | Machine Learning | Data Analytics
 
-> Learning ML & DSA <br>
-> Interested in Data Science / AI / ML & Open Source <br> 
-> Second year Computer Science Student at ADYPU  <br>
-> Reach me at: mamtap2818@gmail.com  <br>
-> Mobile No : 9689297265
-> My Linkden profile: https://www.linkedin.com/in/mamta-patil-81bb04336
+I'm a Computer Engineering student interested in Data Science, Machine Learning, Artificial Intelligence, and Open Source.
+
+> Building practical projects in Data Analysis, Machine Learning, AI, and Real-Time Systems
+> Currently learning Machine Learning and Data Structures & Algorithms
+> Interested in turning data into meaningful insights and building data-driven solutions
+> Exploring technologies across the Data Science and ML ecosystem
 
 
 
@@ -30,12 +31,66 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mamta-codes&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mamta-codes&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mamta-codes&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**🚀 Featured Projects**
 
----
-[![](https://visitcount.itsvg.in/api?id=Mamta-codes&icon=0&color=0)](https://visitcount.itsvg.in)
+
+**1. AI-Powered Automated Data Analysis Platform**
+
+An interactive platform for automated data analysis, visualization, machine learning, and AI-powered insights.
+
+Tech: Python · Pandas · Scikit-learn · Plotly · SHAP · Streamlit · Gemini API
+
+
+
+
+**2. Fraud Sentinel — Real-Time Fraud Detection System**
+
+A real-time fraud detection system combining Machine Learning with Kafka-based transaction streaming.
+
+Tech: Python · Scikit-learn · Random Forest · Apache Kafka · FastAPI · Docker
+
+
+
+
+**3. Telco Customer Churn Prediction**
+
+A machine learning classification project focused on predicting customer churn and evaluating multiple classification models.
+
+Tech: Python · Pandas · Scikit-learn · Logistic Regression · Decision Tree · Random Forest
+
+
+
+
+**4. Superstore Sales & Profit Analysis**
+
+A data analysis project focused on identifying sales, profit, product, regional, and customer trends.
+
+Tech: Python · Pandas · NumPy · Matplotlib
+
+
+
+
+📊 GitHub Stats
+
+
+
+
+
+
+
+📚 Currently Learning
+Machine Learning
+Data Structures & Algorithms
+Database Management Systems
+Explainable AI
+🔗 Connect With Me
+
+📧 Email: mamtap2818@gmail.com
+
+💼 LinkedIn: Mamta Patil
+
+🐙 GitHub: Mamta-codes
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
